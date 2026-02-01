@@ -1,0 +1,3 @@
+# Chapter 3 Exercises
+
+Content coming soon...
