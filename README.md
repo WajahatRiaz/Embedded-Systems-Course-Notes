@@ -1,4 +1,4 @@
-# Computer Architecture Course Notes
+# Embedded Systems Course Notes
 
 This repository contains comprehensive notes for a Embedded Systems course, written in pure Markdown.
 
